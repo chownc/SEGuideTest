@@ -1,6 +1,4 @@
 proc setinit;
 run;
+/* Added a new line here */
 
-data a;
-x=1;
-run;
